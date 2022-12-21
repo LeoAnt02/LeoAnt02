@@ -1,6 +1,6 @@
+[![MasterHead](![](https://tva1.sinaimg.cn/large/008vxvgGgy1h9bxmk9nzsj31zs0u0az1.jpg)
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate Full-Stack developer from Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://tva1.sinaimg.cn/large/008vxvgGgy1h98nx39ze0g30f00mix4f.gif">
 
 
 - 🔭 I’m currently working on **multiple projects on web and mobile**
