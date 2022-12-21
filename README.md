@@ -1,4 +1,4 @@
-[![MasterHead](![](https://tva1.sinaimg.cn/large/008vxvgGgy1h9bxmk9nzsj31zs0u0az1.jpg)
+![](https://tva1.sinaimg.cn/large/008vxvgGgy1h9bxmk9nzsj31zs0u0az1.jpg)
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate Full-Stack developer from Canada</h3>
 
