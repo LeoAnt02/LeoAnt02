@@ -1,11 +1,11 @@
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h9bxmk9nzsj31zs0u0az1.jpg)
+![](https://64.media.tumblr.com/b4184dce0dbef86ff98ae1eab6de8ba9/862449a858f2441c-2e/s1280x1920/74c637715f2d3444bec4fa38c47bdcb2d25f2c71.gifv)
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate Full-Stack developer from Canada</h3>
 
 
 - 🔭 I’m currently working on **multiple projects on web and mobile**
 
-- 🌱 I’m currently learning **CI/CD and React-Native**
+- 🌱 I’m currently learning **CI/CD and React-Native using Expo**
 
 
 <p align="left">
