@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **multiple projects on web and mobile**
 
 - 🌱 I’m currently learning **CI/CD and React-Native using Expo**
+- - 🌱 I’m currently learning **Neovim**
 
 
 <p align="left">  
