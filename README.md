@@ -6,15 +6,11 @@
 <h3 align="center">A passionate Full-Stack developer from Canada</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>multiple projects on web and mobile</strong>
+  🔭 I’m currently working on <strong>multiple projects on web</strong>
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>CI/CD and React-Native using Expo</strong>
-</p>
-
-<p align="center">
-  🌱 I’m also learning <strong>Neovim</strong>
+  🌱 I’m currently learning <strong>k8</strong>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
