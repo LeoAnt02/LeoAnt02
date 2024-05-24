@@ -6,11 +6,11 @@
 <h3 align="center">A passionate Full-Stack developer from Canada</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>multiple projects on web</strong>
+  🔭 I’m currently working on <strong> projects on web</strong>
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>k8</strong>
+  🌱 I’m currently learning <strong>Retreival Augmented Generations (RAG) - Langchain - LLM </strong>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
