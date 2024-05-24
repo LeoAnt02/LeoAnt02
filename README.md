@@ -12,6 +12,9 @@
 <p align="center">
   🌱 I’m currently learning <strong>Retreival Augmented Generations (RAG) - Langchain - LLM </strong>
 </p>
+<p align="center">
+  🌱 I’m currently learning <strong>Design and UX - UI</strong>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
